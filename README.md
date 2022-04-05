@@ -1,1 +1,3 @@
-# COGS319-OrcunTasdemirFinalSubmission
+# A Word2Vec Semantic Assosications Model for Skimming Behaviour
+
+The model uses the skip-gram architecture to create a 300 dimensional distributed representation of words trained on the Google News Dataset. In this project, I have used this model to develop an algorithm that predicts what sentences are worth reading and what sentences are skippable with reasonable risk of missing out on information. The aim was to simulate/ re-create the skimming behavior we humans indulge in and to develop a model that people can use to extract the most amount of information they can from a text given a small time window not enough to read the entire text.
